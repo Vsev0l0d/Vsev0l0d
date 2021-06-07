@@ -7,3 +7,5 @@
 ![hug](nudes/hug.gif)
 
 <a href="https://en.itmo.ru/"><img src="nudes/itmo.png" width="200"/></a>
+
+![Profile views](https://gpvc.arturio.dev/Vsev0l0d)
