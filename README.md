@@ -2,9 +2,9 @@
 
 <img src="nudes/gym.jpg" height="250"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsev0l0d&theme=github_dark" height="250"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vsev0l0d&theme=github_dark" height="250"/> <img src="nudes/hug.jpg" height="250"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vsev0l0d&theme=github_dark" height="250"/> <img src="nudes/hug.jpg" height="250"/>
 
-<img src="nudes/hug.gif" height="250"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vsev0l0d&theme=github_dark" height="250"/>
+<img src="nudes/hug.gif" height="250"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vsev0l0d&theme=github_dark" height="250"/>
 
 ## Technology
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
