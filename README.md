@@ -1,10 +1,13 @@
 ## Oh, hi, Mark 👋 
 
-<img src="nudes/gym.jpg" height="250"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsev0l0d&theme=github_dark" height="250"/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vsev0l0d&theme=github_dark" height="250"/> <img src="nudes/hug.jpg" height="250"/>
-
-<img src="nudes/hug.gif" height="250"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vsev0l0d&theme=github_dark" height="250"/>
+<div style="display: flex;">
+    <img src="nudes/gym.jpg" width="39%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsev0l0d&theme=github_dark" width="50%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vsev0l0d&theme=github_dark" width="50%"/> 
+    <img src="nudes/hug.jpg" width="19%"/>
+    <img src="nudes/hug.gif" width="39%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vsev0l0d&theme=github_dark"width="50%"/>
+</div>
 
 ## Technology
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
